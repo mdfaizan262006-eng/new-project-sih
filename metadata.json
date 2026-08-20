@@ -1,0 +1,10 @@
+{
+  "name": "Remix KrishiDrishti",
+  "description": "Smart agricultural intelligence platform offering real-time crop advisory, mandi market analytics, climate and pest risk detection, and government welfare schemes for farmers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
